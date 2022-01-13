@@ -1,0 +1,22 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹Íä
+B
+java:S1125"'Remove the unnecessary boolean literal.(òÇÁ„ıÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(ä¨¶·ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(½š†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸØ¦‘ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğêûÉ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(‹ƒşØşÿÿÿÿ
+B
+java:S1125("'Remove the unnecessary boolean literal.(òÇÁ„ıÿÿÿÿ
+B
+java:S1125)"'Remove the unnecessary boolean literal.(ä¨¶·ıÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(íî°
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(õØõ†
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(­†Ùş
+U
+java:S1854?"?Remove this useless assignment to local variable "sellRequest".(µ÷º™
+S	java:S106="9Replace this use of System.out or System.err by a logger.(Áæ¥˜şÿÿÿÿ
+F
+java:S1481?"0Remove this unused "sellRequest" local variable.(µ÷º™
